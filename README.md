@@ -20,6 +20,10 @@ I used VS Code throughout the project, which made development easier with featur
 Through this task, I not only improved my technical skills but also developed a better problem-solving mindset. I learned how to break down a project into smaller tasks, debug errors, and structure code in a clean and readable way. I also explored useful online resources like YouTube and ChatGPT to clarify doubts and learn new methods.
 This project boosted my confidence in using the core web technologies—HTML, CSS, and JavaScript—and showed me that I can build useful and interactive applications on my own. I also realized the importance of version control and plan to push this project to GitHub to showcase it in my portfolio.
 
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7b6975df-978e-4a46-a128-1bfa33ee2c64)
+
 
 
 

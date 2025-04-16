@@ -1,9 +1,15 @@
 # -INTERACTIVE-QUIZ-APPLICATION
+
 COMPANY: CODTECH IT SOLUTION
+
 NAME: SHIHAMA U
+
 INTERN ID: CT04DA994
+
 DOMAIN: FRONT END WEB DEVELOPMENT
+
 DURATION: 4WEEKS
+
 MENTOR: NEELA SANTHOSH
 
 As part of my front-end internship at CodTech, I was given the opportunity to build a Quiz Application using HTML, CSS, and JavaScript. This task marked the beginning of my journey into real-world web development, and I chose to complete it using Visual Studio Code (VS Code), which made the entire learning process much smoother and enjoyable.
